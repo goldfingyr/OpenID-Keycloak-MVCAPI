@@ -6,7 +6,7 @@
       "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "OpenIDRealmURI": "https://auth.c.ucnit.eu/realms/xOIDCx",
+        "OpenIDRealmURI": "https://auth.a.ucnit.eu/realms/xOIDCx",
         "OpenIDClient": "Alice",
         "OpenIDRealm": "xOIDCx"
       },
